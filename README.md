@@ -13,7 +13,7 @@
 ## ✨ Features
 
 🏛️ **Core Functionalities**
-- 📅 Smart Appointment Scheduling
+- 📅 Counterfeit Medicine Detection
 - 📊 Interactive Health Dashboard
 - 💊 Medication Tracking & Reminders
 - 👨‍⚕️ Doctor Directory & Instant Chat
